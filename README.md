@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [electron system]
 
-- 🌱 I’m currently learning **java & python**
+- 🌱 I’m currently learning **frq trade**
 
 - 💬 Ask me about **nodejs, electron, typescript**
 
